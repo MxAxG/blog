@@ -38,6 +38,12 @@ a, table.table a {
   margin-left: 1rem;
   width: 100%;
 
+  p {
+    img {
+      width: auto;
+    }
+  }
+
   .address {
     margin-bottom: 5px;
     margin-top: 5px;

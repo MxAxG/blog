@@ -6,19 +6,21 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.png
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p style="width:auto;">London :rocket: Seville</p>
+    <a class="post-title" href="mailto:hello@michaelgordon.io">hello@michaelgordon.io</a>
+    
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a data scientist, researcher, developer and entrepreneur. I founded [objectiv.org](https://objectiv.org/), a Seville-based independent nonprofit focused on automated fact checking, stance and hidden bias detection within news media content across new and social media. I am also Chief Scientist at [R2P.AI](https://r2p.ai/), a UK based AI consultancy, and Head of AI at [Send Technology](https://send.technology/), an insurtech company based in London. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, I was a specialist AI mentor at [Impact Accelerator](https://www.impact-accelerator.com/) for European startups; Lead NLP / Machine Learning Engineer at [Piksel](https://piksel.com/), a broadcast and media technology group; co-founder and Lead Data Scientist at music startup [Humm](https://www.linkedin.com/company/humm-ltd/); Data Scientist at [Skimlinks](https://skimlinks.com/); Research Scientist at [Universidad de Sevilla](https://www.us.es/); Quant at [JP Morgan](https://www.jpmorgan.com/) and at [Citigroup](https://www.citigroup.com/citi/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Talks I've given include [the future of AI in the music industry](https://www.monkeyweek.org/en/speakers/michael-gordon-uk/), at [Monkey Week's PRO conference](https://www.monkeyweek.org/en/monkey-week-pro-2020/) funded through [INES](https://www.ines-festivals.eu/); and on [the ethical, legal, social and economic impact of AI within the commercial insurance industry](https://ec.europa.eu/jrc/communities/en/community/humaint/event/humaint-winter-school-ai-ethical-social-legal-and-economic-impact), as part of the [HUMAINT](https://ec.europa.eu/jrc/communities/en/community/humaint) project organised by the [JRC's Centre for Advanced Studies](https://ec.europa.eu/jrc/en/research/centre-advanced-studies) of the European Commission. 
+
+My main research interests include natural language understanding, low-resource learning, automated fact checking, stance and hidden bias detection, with a focus on news media content across new and social media. 
